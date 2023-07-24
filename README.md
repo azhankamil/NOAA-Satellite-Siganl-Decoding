@@ -12,10 +12,14 @@ V-Dipole Antenna: A V-dipole antenna is a simple and inexpensive design that can
 
 <img width="863" alt="Screenshot 2023-07-25 at 1 53 44 AM" src="https://github.com/azhankamil/NOAA-Satellite-Siganl-Decoding/assets/79698742/b57bb7c5-de55-4f1e-be68-8df9fa54fbd9">
 
+
+
 Most Important Antenna Orientation for Signal Reception in Fig
 
 # Fig (Antenna Orientation)
 <img width="857" alt="Screenshot 2023-07-25 at 1 55 05 AM" src="https://github.com/azhankamil/NOAA-Satellite-Siganl-Decoding/assets/79698742/29ab8cb7-70e6-44e3-b104-eb8b400d3a1d">
+
+
 
 
 RTL-SDR Dongle: An RTL-SDR (Software-Defined Radio) dongle is a low-cost radio receiver that connects to a computer via USB. It can tune to a wide range of frequencies and is commonly used for receiving various radio signals, including NOAA satellite signals.
