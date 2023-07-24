@@ -14,7 +14,7 @@ V-Dipole Antenna: A V-dipole antenna is a simple and inexpensive design that can
 
 
 
-Most Important Antenna Orientation for Signal Reception in Fig
+Most Important Antenna Orientation for Signal Reception in <https://github.com/azhankamil/NOAA-Satellite-Siganl-Decoding/blob/main/README.md#fig-antenna-orientation>
 
 # Fig (Antenna Orientation)
 <img width="857" alt="Screenshot 2023-07-25 at 1 55 05 AM" src="https://github.com/azhankamil/NOAA-Satellite-Siganl-Decoding/assets/79698742/29ab8cb7-70e6-44e3-b104-eb8b400d3a1d">
