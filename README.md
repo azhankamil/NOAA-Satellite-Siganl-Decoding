@@ -1,4 +1,6 @@
-# NOAA-Satellite-Siganl-Decoding
+## NOAA-Satellite-Siganl-Decoding
+
+
 
 Decoding signals from NOAA Satellites using Python and receiving the signal using a V-dipole antenna and RTL-SDR is an exciting project that enables amateur radio enthusiasts and weather enthusiasts to gather and process weather satellite imagery.
 
@@ -49,3 +51,11 @@ Decode the Signal: Convert the recorded raw data into a meaningful image using d
 Visualize the Image: Use Python and libraries like numpy and matplotlib to visualize and enhance the decoded weather satellite image.
 
 This project offers a great learning experience in radio frequency communication, signal processing, and image decoding. It allows hobbyists and weather enthusiasts to access real-time weather data captured by NOAA satellites without the need for expensive equipment. Keep in mind that receiving signals from satellites can be influenced by various factors, including antenna positioning, atmospheric conditions, and interference, so experimentation and fine-tuning may be required to achieve optimal results.
+
+
+
+##
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://azhankamil.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhan-kamil-4128b31a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azhankamil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gj8915@myamu.ac.in)
